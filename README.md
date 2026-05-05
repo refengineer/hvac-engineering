@@ -1,6 +1,15 @@
 # HVAC Engineering Study Repository
 
+
 > 📘 Structured study notes on HVAC (Heating, Ventilation, and Air Conditioning) and thermofluid systems
+
+---
+
+## 📖 Reference Book
+
+<p align="center">
+  <img src="SI 단위를 중심으로 한 공기조화설비의 이해/images/SI 단위를 중심으로 한 공기조화설비의 이해.jpg" width="1000"/>
+</p>
 
 ---
 
