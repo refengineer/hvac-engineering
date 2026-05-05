@@ -1,4 +1,4 @@
-# HVAC Study Repository
+# HVAC Engineering Study Repository
 
 > 📘 Structured study notes on HVAC (Heating, Ventilation, and Air Conditioning) and thermofluid systems
 
