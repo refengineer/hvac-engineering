@@ -51,7 +51,7 @@ Each chapter includes:
 
 > Status: ⬜ Not Started | 🟨 In Progress | 🟩 Completed
 
-- ⬜ **Ch.1**  — Not Started  
+- 🟩 **Ch.1**  — Completed: 2026.05.08  
 - ⬜ **Ch.2**  — Not Started  
 - ⬜ **Ch.3**  — Not Started  
 - ⬜ **Ch.4**  — Not Started  
